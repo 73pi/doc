@@ -1,0 +1,15 @@
+"单一用户配置位置：~/.vimrc
+"全局设置：/etc/vim/vimrc
+"语法高亮
+syntax on
+"设置显示行号
+set number
+"设置tab键的宽度
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+"设置自动对齐
+set autoindent
+set cindent
+"设置显示括号匹配
+set showmatch
